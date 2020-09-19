@@ -1,0 +1,18 @@
+This file consists of firefox links before restart:
+1. https://github.com/santosh-bitra/example-voting-app/blob/master/docker-compose-simple.yml
+
+2. https://stackbooks.stackroute.in/course/Linux-Fundamentals-and-Administration/session2
+
+3. https://stackbooks.stackroute.in/course/SRE-CoreModule-Part-1/ansible-assgn-part1
+
+4. https://www.youtube.com/watch?v=JZ7h5FxlTVg&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&index=39
+
+5. https://opensource.com/article/18/7/how-check-free-disk-space-linux
+
+6. http://www.gnu.org/software/gzip/manual/gzip.html
+
+7. file:///home/god/Downloads/UNIX%20and%20Linux%20System%20Administration%20Handbook%20(%20PDFDrive.com%20).pdf
+
+8. https://github.com/DescartesResearch/TeaStore
+
+9. https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/

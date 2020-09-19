@@ -1,0 +1,34 @@
+The firewall on this machine is custom made.
+1. The file for custom firewall scripts are in the location /etc/firewall.
+
+2. This location consists of 3 scripts that has been git pulled from the github
+
+3. This was forked from the repo: https://github.com/ChrisTitusTech/firewallsetup
+
+4. The scripts consists of a 3 files.
+
+5. These can be directly executed by giving the script as command and enter.
+
+6. The 'firewall' script will enable the execution and triggering of this  custom firewall
+
+7. The scripts 'firewall-down' can be used to bring down the firewall when required.
+
+8. /etc/firewallsetup/firewall-reload to reload or refresh the custom-iptables 
+
+9. This has to be launched everytime ou start your machine.
+
+10. This can be set for permanent by the below method
+	 - systemctl enable iptables
+	 - cd /etc/firewallsetup ; ./firewall
+11. To push the iptables to be saved on startup:
+	 - iptables-save > /etc/iptables/iptables.rules
+	 - reboot 
+
+13. For revision and further support use the following link
+	 - https://www.youtube.com/watch?v=qPEA6J9pjG8
+
+14. The Source Location: /etc/firewallsetup/firewall.sh
+
+15. Currently this firewall is not enabled to start with init for every reboot hence 
+    run the script as you start the machine everytime as this is 
+    still needed to be fully understood

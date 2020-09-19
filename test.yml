@@ -1,0 +1,8 @@
+---
+   hosts: localhost
+   become: yes
+    tasks:
+        name: install htop
+        yum:
+          name: htop
+          state: present
